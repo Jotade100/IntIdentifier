@@ -1,4 +1,4 @@
-# Python Crawler :mag:
+# Integer Identifier :mag:
 > Evalúa si los números pertenecen a la definición ```int_literal``` del lenguaje Decaf.
 
 ## Instalación e implementación
